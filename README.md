@@ -1,6 +1,8 @@
 # systemd-fzf
 A systemctl alias that uses fzf
 
+![](.images/sc-Systemd-fzf.gif)
+
 **Demo Video** - https://streamable.com/e/r64azs
 
 Installation
